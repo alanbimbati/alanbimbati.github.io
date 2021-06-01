@@ -9,11 +9,11 @@
 
 ## **I miei progetti**
 
-✈️ [@FunzioGram](https://t.me/s/FunzioGram): un canale per imparare ad utilizzare Telegram, strutturato su tre corsi (Base, Intermedio, Avanzato). In collaborazione con @FabioRanzi
+✈️ [@FunzioGram](https://t.me/s/FunzioGram): il miglior modo per imparare ad utilizzare Telegram dalle basi fino a gestire un canale per il business (in collaborazione con [@FabioRanzi](https://t.me/FabioRanzi))
 
 ⚙️ [@IngegneriaInformaticaAppunti](https://t.me/s/IngegneriaInformaticaAppunti): materiale utile agli ingegneri
 
-🌎 [@ItaliaSuTelegram](https://t.me/s/ItaliaSuTelegram): una mappa dei canali italiani creata con Google My Maps. Tutti i canali provengono da @ProgressTelegram
+🌎 [@ItaliaSuTelegram](https://t.me/s/ItaliaSuTelegram): una mappa dei canali italiani creata con Google My Maps.
 
 ☀️ [@StudioDelBuddismo](https://t.me/s/StudioDelBuddismo): canale di studio del buddismo di Nichiren Daishonin
 
