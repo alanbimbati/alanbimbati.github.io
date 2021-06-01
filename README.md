@@ -1,5 +1,7 @@
 ## 👋 Ciao, sono Alan Bimbati!
 
+![image](https://user-images.githubusercontent.com/62957276/120283918-0052d200-c2bc-11eb-9981-494cb57b6422.png)
+
 👀 Sono appassionato di **Telegram** e di tecnologia
 👨‍🎓 Studio Ingegneria Informatica Magistrale a Ferrara
 
