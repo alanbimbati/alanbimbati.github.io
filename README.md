@@ -1,37 +1,32 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/alanbimbati/alanbimbati.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+👋 Ciao, sono Alan Bimbati!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+👀 Sono appassionato di **Telegram** e di tecnologia
+👨‍🎓 Studio Ingegneria Informatica Magistrale a Ferrara
 
-### Markdown
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**I miei progetti**
 
-```markdown
-Syntax highlighted code block
+✈️ [@FunzioGram](https://t.me/s/FunzioGram): un canale per imparare ad utilizzare Telegram, strutturato su tre corsi (Base, Intermedio, Avanzato). In collaborazione con @FabioRanzi
 
-# Header 1
-## Header 2
-### Header 3
+⚙️ [@IngegneriaInformaticaAppunti](https://t.me/s/IngegneriaInformaticaAppunti): materiale utile agli ingegneri
 
-- Bulleted
-- List
+🌎 [@ItaliaSuTelegram](https://t.me/s/ItaliaSuTelegram): una mappa dei canali italiani creata con Google My Maps. Tutti i canali provengono da @ProgressTelegram
 
-1. Numbered
-2. List
+☀️ [@StudioDelBuddismo](https://t.me/s/StudioDelBuddismo): canale di studio del buddismo di Nichiren Daishonin
 
-**Bold** and _Italic_ and `Code` text
+👤 [@AlanBimbatiBlog](https://t.me/s/AlanBimbatiBlog): spazio personale di esperienze, storie o riflessioni
 
-[Link](url) and ![Image](src)
-```
+💰 [@GestioneDenaro](https://t.me/s/GestioneDenaro): la mia esperienza nel risparmiare o guadagnare online. Sono anche admin di @MyDigitalFin
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+🎮 [@aROMadivideogiochi](https://t.me/s/aROMadivideogiochi), un posto di ritrovo per i retro gamer e non solo. Sono anche Telegram Commuity Manager (https://t.me/letmeplayita/691) di @LetMePlayIta
 
-### Jekyll Themes
+🏚 #iorestoacasa, un simpatico [video](https://t.me/AlanBimbatiBlog/343) realizzato in quarantena
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alanbimbati/alanbimbati.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+🗣@FACT (Formazione, Alfabetizzazione, Cultura e Tecnlogia): un team composto da 3 informatici e una psicologa sessuologa per portare serate per i paesi (video (https://t.me/AlanBimbatiBlog/293))
 
-### Support or Contact
+🎸 [Performance](https://t.me/joinchat/esRupjezboUyZDg0): i miei miglioramenti con la chitarra e con il basso
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+🇯🇵 [@StudioGiappoBot](https://t.me/StudioGiappoBot): il primo bot per [imparare il giapponese giocando](https://t.me/AlanBimbatiBlog/444) 
