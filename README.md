@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/62957276/120283918-0052d200-c2bc-11eb-9981-494cb57b6422.png)
 
-👀 Sono appassionato di **Telegram** e di tecnologia
+👀 Sono appassionato di tecnologia. Non ho Facebook, Instagram o Whatsapp, utilizzo Telegram che rispetta di gran lunga la privacy ed è oggettivamente migliore. 
 👨‍🎓 Studio Ingegneria Informatica Magistrale a Ferrara
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -30,3 +30,12 @@
 🎸 [Performance](https://t.me/joinchat/esRupjezboUyZDg0): i miei miglioramenti con la chitarra e con il basso
 
 🇯🇵 [@StudioGiappoBot](https://t.me/StudioGiappoBot): il primo bot per [imparare il giapponese giocando](https://t.me/AlanBimbatiBlog/444) 
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+## Seguimi sui Social
+
+[Linkedin](https://www.linkedin.com/in/alanbimbati/)
+[Telegram](https://t.me/AlanBimbatiBlog)
+
+# Scrivimi
+[@AlanBimbati](https://t.me/AlanBimbati)
