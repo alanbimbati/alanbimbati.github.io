@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
-
-👋 Ciao, sono Alan Bimbati!
+## 👋 Ciao, sono Alan Bimbati!
 
 👀 Sono appassionato di **Telegram** e di tecnologia
 👨‍🎓 Studio Ingegneria Informatica Magistrale a Ferrara
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-**I miei progetti**
+## **I miei progetti**
 
 ✈️ [@FunzioGram](https://t.me/s/FunzioGram): un canale per imparare ad utilizzare Telegram, strutturato su tre corsi (Base, Intermedio, Avanzato). In collaborazione con @FabioRanzi
 
