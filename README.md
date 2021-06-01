@@ -21,7 +21,7 @@
 
 💰 [@GestioneDenaro](https://t.me/s/GestioneDenaro): la mia esperienza nel risparmiare o guadagnare online. Sono anche admin di @MyDigitalFin
 
-🎮 [@aROMadivideogiochi](https://t.me/s/aROMadivideogiochi), un posto di ritrovo per i retro gamer e non solo. Sono anche Telegram Commuity Manager (https://t.me/letmeplayita/691) di @LetMePlayIta
+🎮 [@aROMadivideogiochi](https://t.me/s/aROMadivideogiochi), un posto di ritrovo per i retro gamer e non solo. Sono anche [Telegram Commuity Manager](https://t.me/letmeplayita/691) di @LetMePlayIta
 
 🏚 #iorestoacasa, un simpatico [video](https://t.me/AlanBimbatiBlog/343) realizzato in quarantena
 
