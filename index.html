@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Alan Bimbati</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(45deg, #fdbb2d, #fbd786, #fbc2eb);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            color: white;
+        }
+        #cv-container {
+            background: rgba(0, 0, 0, 0.8);
+            border-radius: 15px;
+            padding: 20px;
+            width: 90%;
+            max-width: 1200px;
+            text-align: center;
+        }
+        #profile-container {
+            margin-bottom: 20px;
+        }
+        #profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        #job-title {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+        #experience-level {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            text-align: left;
+            display: inline-block;
+            width: 100%;
+        }
+        .section-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 5px;
+        }
+        .skill-category {
+            margin-bottom: 20px;
+        }
+        .skill-category .skill-parent {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 5px;
+        }
+        .skill-category .skill-children {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .skill {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 5px;
+            padding: 12px;
+            margin: 5px;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            width: auto;
+        }
+        .skill i {
+            margin-right: 8px;
+            font-size: 20px;
+        }
+        #contact {
+            background: #333;
+            padding: 15px;
+            border-radius: 10px;
+            color: #fdbb2d;
+            margin-top: 30px;
+        }
+        #contact h2 {
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
+        #contact p {
+            margin: 5px 0;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div id="cv-container">
+        <div id="profile-container">
+            <img id="profile-image" src="https://media.licdn.com/dms/image/v2/D4E03AQHYIK5mHwzlRw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695369561816?e=1729728000&v=beta&t=gVNZU5vGDSN13iT2irA0fTenkOIDNvlUUwoEc2zHhyc" alt="Alan Bimbati">
+        </div>
+        <h1 id="job-title">Alan Bimbati - Data Engineer</h1>
+        <div id="experience-level">Esperienza: 5+ anni</div>
+        
+        <!-- Hard Skills Section -->
+        <div class="section" id="hard-skills">
+            <div class="section-title">Hard Skills</div>
+            <div class="skill-category">
+                <div class="skill-parent">Linguaggi di Programmazione</div>
+                <div class="skill-children">
+                    <div class="skill"><i class="fab fa-python"></i>Python</div>
+                    <div class="skill"><i class="fas fa-database"></i>SQL</div>
+                    <div class="skill"><i class="fas fa-code"></i>C++</div>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-parent">Data Engineering</div>
+                <div class="skill-children">
+                    <div class="skill"><i class="fas fa-stream"></i>Data Pipeline (ETL)</div>
+                    <div class="skill"><i class="fas fa-project-diagram"></i>Data Modeling</div>
+                    <div class="skill"><i class="fas fa-chart-bar"></i>Data Visualization</div>
+                    <div class="skill"><i class="fas fa-chart-line"></i>Business Analytics</div>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-parent">Strumenti e Tecnologie</div>
+                <div class="skill-children">
+                    <div class="skill"><i class="fas fa-cogs"></i>SAP DataServices</div>
+                    <div class="skill"><i class="fas fa-server"></i>IBM DataStage</div>
+                    <div class="skill"><i class="fab fa-hadoop"></i>Hadoop (Hive and Spark)</div>
+                    <div class="skill"><i class="fas fa-database"></i>Oracle DB</div>
+                    <div class="skill"><i class="fas fa-database"></i>IBM DB</div>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-parent">Visualizzazione Dati</div>
+                <div class="skill-children">
+                    <div class="skill"><i class="fas fa-chart-pie"></i>Power BI</div>
+                    <div class="skill"><i class="fab fa-google"></i>Google Data Studio</div>
+                    <div class="skill"><i class="fas fa-project-diagram"></i>Unify</div>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-parent">Project Management</div>
+                <div class="skill-children">
+                    <div class="skill"><i class="fas fa-tasks"></i>Project Management</div>
+                    <div class="skill"><i class="fas fa-sync"></i>Agile</div>
+                    <div class="skill"><i class="fas fa-users"></i>SCRUM</div>
+                    <div class="skill"><i class="fab fa-jira"></i>Jira</div>
+                    <div class="skill"><i class="fab fa-git-alt"></i>Git</div>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-parent">Altre Competenze</div>
+                <div class="skill-children">
+                    <div class="skill"><i class="fas fa-sparkles"></i>PySpark</div>
+                    <div class="skill"><i class="fas fa-notes-medical"></i>JupyterLab</div>
+                    <div class="skill"><i class="fab fa-telegram-plane"></i>Telegram API</div>
+                    <div class="skill"><i class="fab fa-bitcoin"></i>Bitcoin</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Experience Section -->
+        <div class="section" id="experience">
+            <div class="section-title">Esperienze Lavorative</div>
+            <div class="experience">
+                <div class="experience-item">
+                    <h3>Circana / Data Manager (Hybrid)</h3>
+                    <p>Maggio 2023 - Present</p>
+                    <p>via Cassala 22, Milano (MI)</p>
+                    <p>ETL, Data Modeling, Hadoop, Python, BI</p>
+                </div>
+                <div class="experience-item">
+                    <h3>IConsulting / Data Engineer (Remote/Optional)</h3>
+                    <p>September 2021 - Aprile 2023</p>
+                    <p>via Bazzanese 32, Casalecchio di Reno (BO)</p>
+                    <p>ETL, Data Visualization, BI, Oracle DB, IBM DB, Python</p>
+                </div>
+                <div class="experience-item">
+                    <h3>New Garden / Junior IT Technician (On site)</h3>
+                    <p>September 2020 - September 2021</p>
+                    <p>Ficarolo (RO)</p>
+                    <p>Machine Learning, Deep Learning, Python, Data Science</p>
+                </div>
+                <div class="experience-item">
+                    <h3>Università degli studi di Ferrara / Web Developer (Full Remote)</h3>
+                    <p>August 2019 - August 2020</p>
+                    <p>via Saragat 1, Ferrara (FE)</p>
+                    <p>HTML, CSS, PHP, Wordpress</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Education Section -->
+        <div class="section" id="education">
+            <div class="section-title">Percorso di Studi</div>
+            <div class="education">
+                <div class="education-item">
+                    <h3>Università degli studi di Ferrara - Master’s Degree in Informatic Engineering</h3>
+                    <p>21 December 2021</p>
+                    <p>via Saragat 1, Ferrara (FE)</p>
+                    <p>104/110</p>
+                </div>
+                <div class="education-item">
+                    <h3>Università degli studi di Ferrara - Bachelor’s Degree in Informatic Science</h3>
+                    <p>14 December 2017</p>
+                    <p>via Saragat 1, Ferrara (FE)</p>
+                    <p>91/110</p>
+                </div>
+                <div class="education-item">
+                    <h3>IIS Copernico Carpeggiani - Secondary School Diploma in IT</h3>
+                    <p>2014</p>
+                    <p>via Pomposa, Ferrara (FE)</p>
+                    <p>76/100</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Contact Section -->
+        <div id="contact">
+            <h2>Contatti</h2>
+            <p>Email: alan.bimbati@gmail.com</p>
+            <p>Telegram: @AlanBimbati</p>
+        </div>
+    </div>
+</body>
+</html>
