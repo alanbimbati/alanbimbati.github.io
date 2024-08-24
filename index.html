@@ -44,13 +44,11 @@
             margin-bottom: 20px;
         }
         .section {
-            margin-bottom: 30px;
-            padding: 15px;
-            background: rgba(255, 255, 255, 0.1);
+            background: rgba(255, 255, 255, 0.1); /* Sfondo semi-trasparente */
+            border: 1px solid rgba(255, 255, 255, 0.3); /* Bordo leggero */
             border-radius: 10px;
-            text-align: left;
-            display: inline-block;
-            width: 100%;
+            padding: 20px;
+            margin-bottom: 30px;
         }
         .section-title {
             font-size: 22px;
@@ -105,6 +103,25 @@
             margin: 5px 0;
             font-size: 16px;
         }
+        .experience, .education {
+            text-align: left;
+            margin: 0 auto;
+            width: 80%;
+        }
+        .experience-item, .education-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 5px;
+        }
+        .experience-item h3, .education-item h3 {
+            margin: 0;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .experience-item p, .education-item p {
+            margin: 5px 0;
+        }
     </style>
 </head>
 <body>
@@ -113,13 +130,12 @@
             <img id="profile-image" src="https://media.licdn.com/dms/image/v2/D4E03AQHYIK5mHwzlRw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695369561816?e=1729728000&v=beta&t=gVNZU5vGDSN13iT2irA0fTenkOIDNvlUUwoEc2zHhyc" alt="Alan Bimbati">
         </div>
         <h1 id="job-title">Alan Bimbati - Data Engineer</h1>
-        <div id="experience-level">Esperienza: 5+ anni</div>
+        <div id="experience-level">Esperienza: 3+ anni</div>
         
         <!-- Hard Skills Section -->
         <div class="section" id="hard-skills">
             <div class="section-title">Hard Skills</div>
             <div class="skill-category">
-                <div class="skill-parent">Linguaggi di Programmazione</div>
                 <div class="skill-children">
                     <div class="skill"><i class="fab fa-python"></i>Python</div>
                     <div class="skill"><i class="fas fa-database"></i>SQL</div>
@@ -127,26 +143,25 @@
                 </div>
             </div>
             <div class="skill-category">
-                <div class="skill-parent">Data Engineering</div>
                 <div class="skill-children">
                     <div class="skill"><i class="fas fa-stream"></i>Data Pipeline (ETL)</div>
                     <div class="skill"><i class="fas fa-project-diagram"></i>Data Modeling</div>
                     <div class="skill"><i class="fas fa-chart-bar"></i>Data Visualization</div>
                     <div class="skill"><i class="fas fa-chart-line"></i>Business Analytics</div>
+                    <div class="skill"><i class="fas fa-python"></i>PySpark</div>
+                    <div class="skill"><i class="fas fa-python"></i>JupyterLab</div>
                 </div>
             </div>
             <div class="skill-category">
-                <div class="skill-parent">Strumenti e Tecnologie</div>
                 <div class="skill-children">
                     <div class="skill"><i class="fas fa-cogs"></i>SAP DataServices</div>
                     <div class="skill"><i class="fas fa-server"></i>IBM DataStage</div>
-                    <div class="skill"><i class="fab fa-hadoop"></i>Hadoop (Hive and Spark)</div>
+                    <div class="skill"><i class="fab fa-server"></i>Hadoop (Hive and Spark)</div>
                     <div class="skill"><i class="fas fa-database"></i>Oracle DB</div>
                     <div class="skill"><i class="fas fa-database"></i>IBM DB</div>
                 </div>
             </div>
             <div class="skill-category">
-                <div class="skill-parent">Visualizzazione Dati</div>
                 <div class="skill-children">
                     <div class="skill"><i class="fas fa-chart-pie"></i>Power BI</div>
                     <div class="skill"><i class="fab fa-google"></i>Google Data Studio</div>
@@ -154,7 +169,6 @@
                 </div>
             </div>
             <div class="skill-category">
-                <div class="skill-parent">Project Management</div>
                 <div class="skill-children">
                     <div class="skill"><i class="fas fa-tasks"></i>Project Management</div>
                     <div class="skill"><i class="fas fa-sync"></i>Agile</div>
@@ -164,10 +178,7 @@
                 </div>
             </div>
             <div class="skill-category">
-                <div class="skill-parent">Altre Competenze</div>
                 <div class="skill-children">
-                    <div class="skill"><i class="fas fa-sparkles"></i>PySpark</div>
-                    <div class="skill"><i class="fas fa-notes-medical"></i>JupyterLab</div>
                     <div class="skill"><i class="fab fa-telegram-plane"></i>Telegram API</div>
                     <div class="skill"><i class="fab fa-bitcoin"></i>Bitcoin</div>
                 </div>
@@ -231,8 +242,8 @@
         </div>
         
         <!-- Contact Section -->
-        <div id="contact">
-            <h2>Contatti</h2>
+        <div class="section" id="contact">
+            <div class="section-title">Contatti</div>
             <p>Email: alan.bimbati@gmail.com</p>
             <p>Telegram: @AlanBimbati</p>
         </div>
